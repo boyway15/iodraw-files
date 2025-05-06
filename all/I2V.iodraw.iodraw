@@ -34,8 +34,8 @@
         <mxCell id="57cDC514akH7JN3a2KC2-59" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="345" y="-586.11" width="120" height="97.77" as="geometry" />
         </mxCell>
-        <mxCell id="57cDC514akH7JN3a2KC2-142" value="B × C ×&amp;nbsp;L_T × L_W × L_H&amp;nbsp;&lt;div&gt;=&amp;nbsp;&lt;div&gt;B&amp;nbsp;×&amp;nbsp;16&amp;nbsp;×&amp;nbsp;T/4 + 1&amp;nbsp;×&amp;nbsp;H/8&amp;nbsp;×&amp;nbsp;W/8&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-193" y="-455" width="280" height="90" as="geometry" />
+        <mxCell id="57cDC514akH7JN3a2KC2-142" value="B × C ×&amp;nbsp;L_T × L_W × L_H&amp;nbsp;&lt;div&gt;=&amp;nbsp;&lt;div&gt;B&amp;nbsp;×&amp;nbsp;16&amp;nbsp;× (T/4 + 1) × (H/8) × (W/8)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-213" y="-455" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="57cDC514akH7JN3a2KC2-30" value="W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-670" y="-481.34000000000003" width="40" height="30" as="geometry" />
