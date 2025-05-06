@@ -187,17 +187,11 @@
         <mxCell id="ypgY04jOgZ1LB8GyK11D-170" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=17;size=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="-1067.87" width="35" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ypgY04jOgZ1LB8GyK11D-171" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=17;size=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-1050.87" width="35" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="ypgY04jOgZ1LB8GyK11D-172" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;…&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="-1003.4999999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypgY04jOgZ1LB8GyK11D-173" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=17;size=5;" vertex="1" parent="1">
           <mxGeometry x="320" y="-978.2600000000001" width="35" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="ypgY04jOgZ1LB8GyK11D-174" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=17;size=5;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1040.87" width="35" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
