@@ -35,7 +35,7 @@
           <mxGeometry x="345" y="-586.11" width="120" height="97.77" as="geometry" />
         </mxCell>
         <mxCell id="57cDC514akH7JN3a2KC2-142" value="(B, C, L_T, L_W, L_H) = (B, 16, T/4 + 1, H/8, W/8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-283" y="-451.34" width="460" height="40" as="geometry" />
+          <mxGeometry x="-283" y="-430" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="57cDC514akH7JN3a2KC2-30" value="W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-670" y="-481.34000000000003" width="40" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="-68" y="-708.32" width="20" height="202.96" as="geometry" />
         </mxCell>
         <mxCell id="ypgY04jOgZ1LB8GyK11D-80" value="C=16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-42" y="-630.59" width="60" height="30" as="geometry" />
+          <mxGeometry x="-58" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
