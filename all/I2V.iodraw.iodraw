@@ -127,8 +127,8 @@
         <mxCell id="ypgY04jOgZ1LB8GyK11D-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=28.82;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-583.12" width="72" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ypgY04jOgZ1LB8GyK11D-55" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-562.96" width="20" height="20" as="geometry" />
+        <mxCell id="ypgY04jOgZ1LB8GyK11D-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-518" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
