@@ -131,10 +131,10 @@
           <mxGeometry x="-98" y="-1031.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypgY04jOgZ1LB8GyK11D-102" value="W/8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-884.35" width="50" height="30" as="geometry" />
+          <mxGeometry x="-160" y="-883.86" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypgY04jOgZ1LB8GyK11D-103" value="H/8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="-920.74" width="50" height="30" as="geometry" />
+          <mxGeometry x="-115" y="-923.12" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
