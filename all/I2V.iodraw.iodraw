@@ -43,12 +43,6 @@
         <mxCell id="57cDC514akH7JN3a2KC2-63" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="370" y="-562.23" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="57cDC514akH7JN3a2KC2-64" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="410" y="-562.23" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="57cDC514akH7JN3a2KC2-77" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-582.23" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="57cDC514akH7JN3a2KC2-142" value="(B, C, L_T, L_W, L_H) = (B, 16, T/4 + 1, H/8, W/8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-283" y="-451.34" width="460" height="40" as="geometry" />
         </mxCell>
