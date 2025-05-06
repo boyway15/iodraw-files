@@ -97,8 +97,8 @@
         <mxCell id="ypgY04jOgZ1LB8GyK11D-80" value="C=16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-58" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypgY04jOgZ1LB8GyK11D-81" value="(B, C, L_T, L_W, L_H) = (B, 16, T/4 + 1, H/8, W/8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-273" y="-420" width="460" height="40" as="geometry" />
+        <mxCell id="ypgY04jOgZ1LB8GyK11D-81" value="T+1×3程HW/8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="-457.84000000000003" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
