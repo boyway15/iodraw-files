@@ -118,8 +118,8 @@
         <mxCell id="ypgY04jOgZ1LB8GyK11D-97" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-222.25" y="-826.26" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypgY04jOgZ1LB8GyK11D-99" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-55;" parent="1" vertex="1">
-          <mxGeometry x="-97.75" y="-878.5000000000001" width="20" height="100" as="geometry" />
+        <mxCell id="ypgY04jOgZ1LB8GyK11D-99" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-45;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="-877.0000000000001" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ypgY04jOgZ1LB8GyK11D-100" value="C=16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-88" y="-851.6300000000001" width="60" height="30" as="geometry" />
